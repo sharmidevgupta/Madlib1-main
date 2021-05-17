@@ -8,3 +8,4 @@ I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person}!"
 
 print(madlibs)
 print("hello")
+print("hi")
